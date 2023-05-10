@@ -1,5 +1,9 @@
 # wolfgang_constant_voltage
 Constant Voltage regulator for the Wolfgang OP Robot
+Documentation is located [here](https://doku.bit-bots.de/meta/manual/hardware/electronics/wolfgang_constant_voltage.html)
+
+<img src="img.jpg"  width="600">
+
 
 ## Description
 The Dynamixel motors used in the Wolfgang OP act differently depending on the supplied voltage.
